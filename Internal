@@ -1,15 +1,15 @@
-API_ID=12380656
-API_HASH=d927c13beaaf5110f25c505b7c071273
-BOT_TOKEN=
-STRING_SESSION=
-MUSIC_BOT_NAME=˹sᴧɴᴋɪ ꭙ ᴍᴜsɪᴄ˼
-MONGO_DB_URL=
-DURATION_LIMIT=120
-LOG_GROUP_ID=
-OWNER_ID=
-SUPPORT_CHANNEL=https://t.me/adityaserver
-SUPPORT_GROUP=https://t.me/adityadiscus
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
+API_ID=11107466
+API_HASH=303837af39dfd53ff9b60a56f6ca3bc6
+BOT_TOKEN=6879914267:AAG5lfNouu5e2FdxNSafb6zTQGagf6SUVNM
+STRING_SESSION=BQAdQ3W8bjt1pDgC96yff6vvV_zw3gI8qjOy1-ByZGVgXlrpqpMbvEyUMsol-TPFjMY60BjwAlIX2sAz7uABRsDxAXpWgNyxcfu_k8e3ZyDRBlIPXwQ7-lz5hthVizLrMyJcmT1WHCX5Qub0gnOyMJVTBWvJwqNkM1zau8ZndfxsmhAaew8oxJe019AN2yNTYjdfBgurzPtvZOHTdj2kP5rJ3nHfC-3_jITsEvxzqVuM4VSeDCyoAX_N7wI4aOw-6nR2PykTRXE3Vb4nXQP95FVV0HD4DsOMQQmckn37rwuQXYPzFpkwig41RUIZKmjLRR2klQMWpS-Vyp-gU448nUqTAAAAAYSxGSoA
+MUSIC_BOT_NAME=─⃜͢͢𓆩〭⃛〬🌦⃝⃪⃮⃕⃔🥀 ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤ ⃝⃪⃕༎ຶ𝐌ɪꜱᴛʏ༎ຶ𝐀ᴅᴀʀꜱʜꨄ︎𓆩🍫𓆪🥀.⃝⃡🖤
+MONGO_DB_URL=mongodb+srv://Mukesh01:chuprah@cluster0.dz9iv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+DURATION_LIMIT=600
+LOG_GROUP_ID=-1001919006105
+OWNER_ID=5977523092
+SUPPORT_CHANNEL=https://t.me/official_misty_op
+SUPPORT_GROUP=https://t.me/love_ka_funda
+UPSTREAM_REPO=https://github.com/Rohitxpro/f
 UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
