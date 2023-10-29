@@ -8,7 +8,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="🙄 ᴩᴀᴜsᴇ 🙄",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url=https://telegra.ph/file/5737cbb170b71c116f75d.jpg",
+            thumb_url="https://telegra.ph/file/5737cbb170b71c116f75d.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
@@ -32,7 +32,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="🥱 ʟᴏᴏᴩ 🥱",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url=https://graph.org/file/c760203b3d42bdeeab425.jpg",
+            thumb_url="https://graph.org/file/c760203b3d42bdeeab425.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
