@@ -9,7 +9,7 @@ from pyrogram import filters
 if os.path.exists("Internal"):
   load_dotenv("Internal")
 
-API_ID = int(getenv("11107466"))
+API_ID = int(getenv("API_ID","11107466"))
 API_HASH = getenv("303837af39dfd53ff9b60a56f6ca3bc6")
 BOT_TOKEN = getenv("6879914267:AAG5lfNouu5e2FdxNSafb6zTQGagf6SUVNM")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
