@@ -9,23 +9,23 @@ from pyrogram import filters
 if os.path.exists("Internal"):
   load_dotenv("Internal")
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("11107466"))
+API_HASH = getenv("303837af39dfd53ff9b60a56f6ca3bc6")
+BOT_TOKEN = getenv("6879914267:AAG5lfNouu5e2FdxNSafb6zTQGagf6SUVNM")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
 MONGO_DB_URL = getenv("MONGO_DB_URL", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐒ʌnƙɩ ✘ 𝐌ʋsɩƈ")
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5336023580").split()))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "─⃜͢͢𓆩〭⃛〬🌦⃝⃪⃮⃕⃔🥀 ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤ ⃝⃪⃕༎ຶ𝐌ɪꜱᴛʏ༎ຶ𝐀ᴅᴀʀꜱʜꨄ︎𓆩🍫𓆪🥀.⃝⃡🖤")
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5977523092").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Kaal-xD/SankiXMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Rohitxpro/F")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "kaal")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sanki_Owners")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Sanki_World")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/official_misty_op")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/love_ka_funda")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "180"))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "600"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
@@ -64,13 +64,13 @@ clean = {}
 autoclean = []
 ############################
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/83cfcc36ef441e516d28f.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://te.legra.ph/file/6abc32c3858f205434cd5.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/6ba40fc99e724c6e9db98.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/b44937daef839d657b2d9.jpg")
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-GLOBAL_IMG_URL = "https://te.legra.ph/file/6abc32c3858f205434cd5.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/6abc32c3858f205434cd5.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/a209db71bd246349598d5.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/a209db71bd246349598d5.jpg"
+STATS_IMG_URL = "https://graph.org/file/838f3b644a3d4b8c7520f.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/838f3b644a3d4b8c7520f.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
